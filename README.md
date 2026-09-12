@@ -1,4 +1,15 @@
-# PDF table to Excel — conversion sample
+# PDF to Excel: text tables and scanned invoices
+
+## Scanned French invoices
+
+[Open the Excel result](invoice-ocr/outputs/01a087f4/factures.xlsx) · [View the source scans](invoice-ocr/outputs/scanned-invoices.pdf) · [Method and tests](invoice-ocr/README.md)
+
+Four fictional image-only pages processed with French OCR. The workbook preserves invoice references and flags a missing client reference, a repeated invoice and a EUR5 total discrepancy. Clean synthetic layout only; no client work or general OCR accuracy claim.
+
+![Scanned invoice Excel result](invoice-ocr/outputs/01a087f4/preview.png)
+
+## Text PDF table
+
 
 A small, reproducible demonstration using **fictitious records, not client data or a previous client assignment**.
 
