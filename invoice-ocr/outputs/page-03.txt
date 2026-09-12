@@ -1,0 +1,16 @@
+DEMONSTRATION - FACTURE FICTIVE
+Facture : 000043
+
+Date : 12/09/2026
+
+Fournisseur : Bureau Exemple
+
+Reference client :
+
+Total HT : 80,00
+
+TVA : 0,00
+
+Total TTC : 80,00
+
+Donnees inventees. Aucun paiement a effectuer.

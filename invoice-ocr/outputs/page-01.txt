@@ -1,0 +1,16 @@
+DEMONSTRATION - FACTURE FICTIVE
+Facture : 000041
+
+Date : 10/09/2026
+
+Fournisseur : Atelier Exemple
+
+Reference client : 001207
+
+Total HT : 125,00
+
+TVA : 25,00
+
+Total TTC : 150,00
+
+Donnees inventees. Aucun paiement a effectuer.

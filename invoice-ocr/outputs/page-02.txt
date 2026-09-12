@@ -1,0 +1,16 @@
+DEMONSTRATION - FACTURE FICTIVE
+Facture : 000042
+
+Date : 11/09/2026
+
+Fournisseur : Studio Fictif
+
+Reference client : 001208
+
+Total HT : 200,00
+
+TVA : 40,00
+
+Total TTC : 245,00
+
+Donnees inventees. Aucun paiement a effectuer.

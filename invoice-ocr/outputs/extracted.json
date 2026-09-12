@@ -1,0 +1,60 @@
+[
+  {
+    "invoice": "000041",
+    "date": "10/09/2026",
+    "supplier": "Atelier Exemple",
+    "client_reference": "001207",
+    "net": "125.00",
+    "vat": "25.00",
+    "gross": "150.00",
+    "difference": "0.00",
+    "issues": [],
+    "source": "scanned-invoices.pdf",
+    "page": 1
+  },
+  {
+    "invoice": "000042",
+    "date": "11/09/2026",
+    "supplier": "Studio Fictif",
+    "client_reference": "001208",
+    "net": "200.00",
+    "vat": "40.00",
+    "gross": "245.00",
+    "difference": "5.00",
+    "issues": [
+      "total_mismatch"
+    ],
+    "source": "scanned-invoices.pdf",
+    "page": 2
+  },
+  {
+    "invoice": "000043",
+    "date": "12/09/2026",
+    "supplier": "Bureau Exemple",
+    "client_reference": null,
+    "net": "80.00",
+    "vat": "0.00",
+    "gross": "80.00",
+    "difference": "0.00",
+    "issues": [
+      "missing_or_ambiguous:client_reference"
+    ],
+    "source": "scanned-invoices.pdf",
+    "page": 3
+  },
+  {
+    "invoice": "000041",
+    "date": "10/09/2026",
+    "supplier": "Atelier Exemple",
+    "client_reference": "001207",
+    "net": "125.00",
+    "vat": "25.00",
+    "gross": "150.00",
+    "difference": "0.00",
+    "issues": [
+      "duplicate_supplier_invoice"
+    ],
+    "source": "scanned-invoices.pdf",
+    "page": 4
+  }
+]

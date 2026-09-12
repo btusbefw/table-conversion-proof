@@ -21,3 +21,8 @@ This demonstrates one clean text PDF. It does not demonstrate OCR accuracy on sc
 4. Run `verify.py` with openpyxl to independently read and check the saved workbook. The verifier never writes the workbook.
 
 Prepared by CDRXRX.
+
+
+## Image-only invoice OCR
+
+[French invoice OCR sample](invoice-ocr/README.md): four synthetic scanned pages, Excel output, source traceability and anomaly checks. This separate example uses actual OCR; the original text-PDF example above remains unchanged.
